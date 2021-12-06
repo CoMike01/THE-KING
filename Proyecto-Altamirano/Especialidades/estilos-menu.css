@@ -1,0 +1,94 @@
+div#Contenido{
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 4000px;
+    margin:-8px ;
+}
+div#logotipo{
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 234;
+    margin:0px;
+}
+div#logo {
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 234px;
+    margin: 0px 0px 0px 0px;
+    display:flex;
+    flex-wrap: wrap;
+}
+div#menus{
+background-color: rgb(0, 0, 0);
+width: 1100px;
+height: 50px;
+margin: 0px 0px 0px 410px;
+display:flex;
+flex-wrap: wrap;
+list-style-type: none;
+}
+div#Menu-TK{
+    background-color: rgb(107, 43, 43);
+    width:1900px;
+    height: 500px;
+    margin: 0px;
+}
+div#Menu-Pizzas{
+    background-color:rgb(0, 0, 0);
+    width: 1050px;
+    height: 1100px;
+    margin: 20px 0px 0px 400px;
+}
+table{
+    
+        border-collapse: separate;
+        border-spacing: 20px 10px;
+    
+}
+div#Tabla-Hamburguesas{
+    background-color: rgb(0, 0, 0);
+    width: 900px;
+    height: 750px;
+    margin: 20px 0px 0px 400px;
+}
+
+div#Tabla-snacks{
+    background-color: rgb(168, 35, 35);
+    width: 750px;
+    height: 580px;
+    margin: 20px 0px 0px 400px;
+}
+div#Tabla-Bebidas{
+    background-color: rgb(0, 0, 0);
+    width: 900px;
+    height: 580px;
+    margin: 20px 0px 0px 400px;
+}
+div#Pie-de-pagina{
+    background-color:rgb(228, 30, 30);
+    width: 1900px;
+    height: 193px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+div#Info-alumno{
+background-color: rgb(124, 4, 4);
+width: 950px;
+height: 183px;
+margin: 10px 0px 0px 0px;
+}
+
+div#Derechos{
+    background-color: rgb(124, 4, 4);
+    width: 950px;
+    height: 183px;
+    margin: -183px 0px 0px 950px;
+}
+div#Derecho1{
+    background-color: rgb(124, 4, 4);
+    width: 400px;
+    height: 163;
+    margin: 63px 0px 0px 500px;
+
+}
